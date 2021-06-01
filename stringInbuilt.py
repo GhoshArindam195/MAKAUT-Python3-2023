@@ -16,7 +16,8 @@ s="hello world!";
 # substr=substr.upper()
 # print(substr)
 
-print(s[:5].upper())
-
-print('a'.upper())
-
+# print(s[:5].upper())
+#
+# print('a'.upper())
+thislist=[1,2,3]
+[print(x) for x in thislist]
