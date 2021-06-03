@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34440c7a-7fc8-495b-889d-8780a71fa3a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/StringFunc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cowin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/StringFunc2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stringInbuilt.py" beforeDir="false" afterPath="$PROJECT_DIR$/stringInbuilt.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
-  <component name="RunManager" selected="Python.StringFunc">
+  <component name="RunManager" selected="Python.List1">
+    <configuration name="List1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSC_MAKAUT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="StringFunc" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BSC_MAKAUT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -56,10 +76,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="StringFunc2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSC_MAKAUT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/StringFunc2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="cowin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BSC_MAKAUT" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -95,55 +139,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stringSlice" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BSC_MAKAUT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stringSlice.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="vars" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BSC_MAKAUT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/vars.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.List1" />
+        <item itemvalue="Python.StringFunc2" />
         <item itemvalue="Python.StringFunc" />
         <item itemvalue="Python.cowin" />
         <item itemvalue="Python.stringInbuilt" />
-        <item itemvalue="Python.stringSlice" />
-        <item itemvalue="Python.vars" />
       </list>
     </recent_temporary>
   </component>
@@ -161,22 +163,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="154" key="GridCell.Tab.0.bottom" timestamp="1622529956146">
+    <state width="1259" height="141" key="GridCell.Tab.0.bottom" timestamp="1622726730306">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="154" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1622529956146" />
-    <state width="1259" height="154" key="GridCell.Tab.0.center" timestamp="1622529956146">
+    <state width="1259" height="141" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1622726730306" />
+    <state width="1259" height="141" key="GridCell.Tab.0.center" timestamp="1622726730306">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="154" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1622529956146" />
-    <state width="1259" height="154" key="GridCell.Tab.0.left" timestamp="1622529956145">
+    <state width="1259" height="141" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1622726730306" />
+    <state width="1259" height="141" key="GridCell.Tab.0.left" timestamp="1622726730305">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="154" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1622529956145" />
-    <state width="1259" height="154" key="GridCell.Tab.0.right" timestamp="1622529956146">
+    <state width="1259" height="141" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1622726730305" />
+    <state width="1259" height="141" key="GridCell.Tab.0.right" timestamp="1622726730306">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="154" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1622529956146" />
+    <state width="1259" height="141" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1622726730306" />
     <state x="303" y="41" width="672" height="678" key="search.everywhere.popup" timestamp="1622124406731">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
