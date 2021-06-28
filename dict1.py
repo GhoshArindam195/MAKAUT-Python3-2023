@@ -21,6 +21,5 @@
 #
 # }
 
-str="My name is Anupam"
-i=0
+
 
