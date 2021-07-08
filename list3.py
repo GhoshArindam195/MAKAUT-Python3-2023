@@ -28,14 +28,14 @@
 # print(list1)
 
 list1=["Arin","Biplab", "Chinmay", "Diganta", "Akash"]
-# x=list1.index("a")
-# print(x)
+x=list1.index("Arin")
+print(x)
 
 # print(len(list1))
-print(list1.count("a"))
-
-
-list2=[1, 2, 3, 4]
-print(max(list1))
-print(min(list1))
+# print(list1.count("a"))
+#
+#
+# list2=[1, 2, 3, 4]
+# print(max(list1))
+# print(min(list1))
 
