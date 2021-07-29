@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="34440c7a-7fc8-495b-889d-8780a71fa3a5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DS/iterativeBinarySearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS/listRevOrderPrint.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS/printRevSequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DS/recurBinSearch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/logNLoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DS/mergeSort.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/func.py" beforeDir="false" afterPath="$PROJECT_DIR$/func.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,29 +31,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Python.listRevOrderPrint">
-    <configuration name="iterativeBinarySearch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="BSC_MAKAUT" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS/iterativeBinarySearch.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.mergeSort">
     <configuration name="listRevOrderPrint" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="BSC_MAKAUT" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -93,6 +68,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/logNLoop.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mergeSort" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BSC_MAKAUT" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DS/mergeSort.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,11 +141,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.mergeSort" />
         <item itemvalue="Python.listRevOrderPrint" />
         <item itemvalue="Python.printRevSequence" />
         <item itemvalue="Python.recurBinSearch" />
         <item itemvalue="Python.logNLoop" />
-        <item itemvalue="Python.iterativeBinarySearch" />
       </list>
     </recent_temporary>
   </component>
@@ -171,22 +167,22 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state x="391" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.720@0.0.1280.720" timestamp="1626927824261" />
-    <state width="1259" height="180" key="GridCell.Tab.0.bottom" timestamp="1626928245940">
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom" timestamp="1627533289280">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1626928245940" />
-    <state width="1259" height="180" key="GridCell.Tab.0.center" timestamp="1626928245940">
+    <state width="1259" height="180" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1627533289280" />
+    <state width="1259" height="180" key="GridCell.Tab.0.center" timestamp="1627533289279">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="180" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1626928245940" />
-    <state width="1259" height="180" key="GridCell.Tab.0.left" timestamp="1626928245940">
+    <state width="1259" height="180" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1627533289279" />
+    <state width="1259" height="180" key="GridCell.Tab.0.left" timestamp="1627533289279">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="180" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1626928245940" />
-    <state width="1259" height="180" key="GridCell.Tab.0.right" timestamp="1626928245940">
+    <state width="1259" height="180" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1627533289279" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right" timestamp="1627533289280">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
-    <state width="1259" height="180" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1626928245940" />
+    <state width="1259" height="180" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1627533289280" />
     <state width="1259" height="220" key="GridCell.Tab.1.bottom" timestamp="1625748121338">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
@@ -203,6 +199,10 @@
       <screen x="0" y="0" width="1280" height="720" />
     </state>
     <state width="1259" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1625748121338" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1627442533579">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1627442533579" />
     <state x="362" y="102" width="540" height="524" key="StructurePopup" timestamp="1626354578418">
       <screen x="0" y="0" width="1280" height="720" />
     </state>
